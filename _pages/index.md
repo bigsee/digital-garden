@@ -5,15 +5,20 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# Welcome to my digital garden! 🌱
+## Come inside and pull up a chair... 🏡🪑☕️
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
+  Hey, I'm Carlton! 👋🏾 My oldest and closest friends just call me "C" or "Big C". At the time of writing, I'm 192cm tall (or 6' 3.5", for those in Imperial-land), so I guess it's kinda clever as a nickname. 🤪
+  <br><br>
+  Anyhow, you have happened upon a collection of my various thoughts and ideas. Whilst I say <em>my</em> ideas, I realise that's not always strictly true. Like most creativity, these concepts are mostly borrowed, built upon or broken apart into pieces; pieces that will be hopefully put back together in novel or insightful ways. 🤹🏾
 </p>
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+## Where should I start?
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
+Consider reading the first note I ever added, about [[Pattern recognition]]. Or check out the graph below and see what piques your interest!
+
+<p>
 
 <style>
   .wrapper {

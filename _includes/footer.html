@@ -1,1 +1,10 @@
-This is the footer. Include anything you'd like here, like a link to an <a class="internal-link" href="/about">About</a> page.
+{% if page.title == 'Home' %}
+
+<h3>Hover an idea to highlight its connections, or click it to explore... 🕵️</h3>
+{% include notes_graph.html %}
+
+{% endif %}
+
+<hr>
+
+©️ 2022 <a href="/about">Carlton McFarlane</a>

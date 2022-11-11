@@ -1,3 +1,8 @@
 ---
-title: Music, the brain and ecstasy
+title: "Book: Music, the brain and ecstasy"
+author: Robert Jourdain
 ---
+
+I haven't read this book. It was recommended by a friend. I'll add a personal summary when I've read it myself, but [here is an external one](https://www.goodreads.com/book/show/141566.Music_the_Brain_and_Ecstasy?ref=nav_sb_ss_2_20) for now. The publisher's blurb is below:
+
+> What makes a distant oboe's wail beautiful? Why do some kinds of music lift us to ecstasy, but not others? How can music make sense to an ear and brain evolved for detecting the approaching lion or tracking the unsuspecting gazelle? Lyrically interweaving discoveries from science, psychology, music theory, paleontology, and philosophy, Robert Jourdian brilliantly examines why music speaks to us in ways that words cannot, and why we form such powerful connections to it. In clear, understandable language, Jourdian expertly guides the reader through a continuum of musical experience: sound, tone, melody, harmony, rhythm, composition, performance, listening, understandingand finally to ecstasy. Along the way, a fascinating cast of characters brings Jourdian's narrative to vivid life: "idiots savants" who absorb whole pieces on a single hearing, composers who hallucinate entire compositions, a psychic who claims to take dictation from long-dead composers, and victims of brain damage who can move only when they hear music. Here is a book that will entertain, inform, and stimulate everyone who loves musicand make them think about their favorite song in startling new ways.

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about.html
+permalink: /about
 ---
 
 Hello! 👋🏾 One day, I'll hopefully write something witty and engaging here so you can get to know me better. 🤞🏾 In the meantime, please accept my thanks for dropping by! 🙏🏾🥰 And this cat GIF. Because everyone loves a cat GIF, right?

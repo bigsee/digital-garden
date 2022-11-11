@@ -117,6 +117,13 @@ $ cat /dev/urandom | grep "the answer to life" # shell scripts look nice too
 ```
 
 
+### Tables
+
+| Item         | Price     | # In stock |
+|--------------|-----------|------------|
+| Juicy Apples | 1.99      | *7*          |
+| Bananas      | **1.89**      | 5234       |
+
 ### Next steps
 
 This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).

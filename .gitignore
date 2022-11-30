@@ -18,3 +18,7 @@ _includes/notes_graph.json
 # Local gem files
 vendor/
 .bundle
+
+# IDE config files
+.fleet
+.idea

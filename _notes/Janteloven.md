@@ -11,3 +11,5 @@ Janteloven revolves around the idea that no individual should think they are bet
 How might this be a source of comfort yet also a constraint within Norwegian society? How does this sense of "equality" extended to non-native Norwegians? While it might promote a sense of equality and discourage excessive individualism, does it also create social pressure to conform and limit personal ambition?
 
 What might the relationship be between Janteloven and socialism or social democracy?
+
+Might Janteloven actually lower [[Psychological safety|psychological safety]] by increasing the social risk of deviating from the norm?

@@ -28,6 +28,6 @@ Winning races in these conditions is only possible when driving with full commit
 Creating [[Psychological safety| safe spaces]] is vital to any high-performing team or organisation. There are at least two reasons for this:
 
 1. Innovation is risky
-1. Growth can be scary
+1. [[Growth]] can be scary
 
 <p class="key-idea">💡 Less emotional energy spent on worrying about whether or not a solution will work, means more energy to spend on refining it until it does.</p>

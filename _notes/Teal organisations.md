@@ -14,4 +14,4 @@ According to Laloux, the evolution of humanity passes through various leaps or s
 | Green  | Pluralistic  | A sense of inclusion and a drive to view and treat all people as equal.|
 | Teal   | Evolutionary | The world is a place where everyone is called by intuition to contribute based on their unique potential. |
 
-Teal organisations are characterised by a high degree of autonomy and [[Psychological safety | psychological safety]].
+Teal organisations are characterised by a high degree of autonomy and [[Psychological safety| psychological safety]]. The teams within them are usually[[High performance | high performing]] when the tasks involve a high degree of creativity and innovation, since innovation involves inherent risk of failure. These organisation do best not by trying to lower the *risk* of failure - when can never be zero - but by lowering the *cost* of failure.

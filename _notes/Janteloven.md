@@ -8,6 +8,8 @@ The concept was popularized by the Danish-Norwegian author Aksel Sandemose in hi
 
 Janteloven revolves around the idea that no individual should think they are better or more important than others. It discourages standing out from the crowd, promoting a sense of collective identity and discouraging individual achievement or exceptionalism.
 
+##### Questions to explore:
+
 How might this be a source of comfort yet also a constraint within Norwegian society? How does this sense of "equality" extended to non-native Norwegians? While it might promote a sense of equality and discourage excessive individualism, does it also create social pressure to conform and limit personal ambition?
 
 What might the relationship be between Janteloven and socialism or social democracy?

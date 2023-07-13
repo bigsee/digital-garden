@@ -14,6 +14,8 @@ _includes/notes_graph.json
 # Obsidian config
 .obsidian/
 .vercel
+_notes/.trash
+
 
 # Local gem files
 vendor/

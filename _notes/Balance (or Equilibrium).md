@@ -1,4 +1,4 @@
-The key to life is balance. Most systems tend towards balance and equilibirum in their ideal states, whether they be physical, biological, emotional or philosophical. Here are some examples:
+The key to life is balance. Most systems tend towards balance and equilibrium in their ideal states, whether they be physical, biological, emotional or philosophical. Here are some examples:
 
 #### [[Joy and Sadness]]
 

@@ -6,8 +6,6 @@ title: Trains
 
 1. How do trains represent a culture?
 2. Why are trains the perfect mode of transport?
-3. Why are the "Bateaux London" lunches appealing?
-4. Why is modern air travel like transporting cattle?
 
 ### Suggested reading
 

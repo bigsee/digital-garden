@@ -9,3 +9,5 @@ title: Fatherhood
 ### Suggested reading
 
 _The Expectant Father: The Ultimate Guide for Dads-to-Be_ - Armin A. Brott and Jennifer Ash, 1995
+
+_The Daily Dad_ - Ryan Holiday, 2023

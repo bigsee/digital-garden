@@ -2,6 +2,8 @@
 title: Bias
 ---
 
+Our brain always scans for threats first and rewards second. Unknowns have to be classified as threats until they are assessed. This is partly why notification icons and sounds are so demanding of attention.
+
 ### Working questions
 
 1. What are the different types of cognitive bias?

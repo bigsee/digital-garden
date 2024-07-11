@@ -1,3 +1,6 @@
+---
+---
+
 Rarely has the subtle balance and mutual dependence between Joy and Sorrow been explained more beautifully than by Khalil Gibran's[[The Prophet | Prophet]]:
 
 "Then a woman said, Speak to us of Joy and Sorrow.  

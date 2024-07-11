@@ -1,3 +1,6 @@
+---
+---
+
 A common fear of AI, revolves around the prospect of machines taking humans' jobs. Why are people afraid of not having a job?
 
 What if this is part of our evolution as a species? Our lives supported - or skills and abilities so effectively augmented - that we can devolve our responsibility to provide labour. Both physical and mental.

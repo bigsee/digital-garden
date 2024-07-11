@@ -1,3 +1,6 @@
+---
+---
+
 #### Volatility
 
 Volatility is a statistical measure of the dispersion of returns for a given security or market index, essentially a measure of risk. High volatility signifies larger price swings and thus more potential for profit (and loss). The Sharpe Ratio measures the performance of an investment compared to a risk-free asset, after adjusting for its risk (usually evaluated by its volatility). Higher Sharpe ratios indicate better risk-adjusted returns.

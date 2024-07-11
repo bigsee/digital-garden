@@ -70,6 +70,8 @@ Another model is _the four Ts_:
     </tbody>
 </table>
 
+<br><br><br>
+
 <table style="background-color: #ff7f50">
     <tr>
         <td>Business Scaling Machine may be a competitive advantage</td>
@@ -88,6 +90,8 @@ Another model is _the four Ts_:
     </tr>
 </table>
 
+<br><br><br>
+
 <table style="background-color: #6495ed">
     <tr>
         <td>CTO should contribute to the overall strategy definition</td>
@@ -100,6 +104,8 @@ Another model is _the four Ts_:
     </tr>
 </table>
 
+<br><br><br>
+
 <table style="background-color: #556b2f">
     <tr>
         <td>CTOs might be more strategic or focussed on operational efficiency</td>
@@ -109,7 +115,7 @@ Another model is _the four Ts_:
     </tr>
 </table>
 
-
+<br><br><br>
 
 ## Types of CTO
 

@@ -34,7 +34,82 @@ Another model is _the four Ts_:
 </table>
 
 
-## Main responsibilities of a CTO
+## Definition of the ideal CTO
+
+<table>
+    <thead>
+        <tr>
+            <th>Focus</th><th>Requirement</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr style="color: #ff7f50">
+            <td>HIGH</td><td>Translate technology to the business and the other way round</td>
+        </tr>
+        <tr style="color: #6495ed">
+            <td>HIGH</td><td>Co-partner with CEO, CFO (the board)</td>
+        </tr>
+        <tr>
+            <td>HIGH</td><td>Governance</td>
+        </tr>
+        <tr>
+            <td>HIGH</td><td>Facilitate work</td>
+        </tr>
+        <tr>
+            <td>HIGH</td><td>Enhance agility</td>
+        </tr>
+        <tr style="color: #556b2f">
+            <td>MEDIUM</td><td>Innovate via technology opportunities</td>
+        </tr>
+        <tr>
+            <td>MEDIUM</td><td>Balance tech opportunities and risks</td>
+        </tr>
+        <tr>
+            <td>MEDIUM</td><td>Automate tasks and augment employee capabilities</td>
+        </tr>
+    </tbody>
+</table>
+
+<table style="background-color: #ff7f50">
+    <tr>
+        <td>Business Scaling Machine may be a competitive advantage</td>
+    </tr>
+    <tr>
+        <td>There shouldn't be a separate technology strategy and business strategy</td>
+    </tr>
+    <tr>
+        <td>Talent might bring competitive advantage</td>
+    </tr>
+    <tr>
+        <td>If technology fosters innovation, it fosters strategy</td>
+    </tr>
+    <tr>
+        <td>Depending on the scale of initiatives, some initiatives may require more strategic thinking</td>
+    </tr>
+</table>
+
+<table style="background-color: #6495ed">
+    <tr>
+        <td>CTO should contribute to the overall strategy definition</td>
+    </tr>
+    <tr>
+        <td>Strategy is the CEO's accountability; the board needs to be onboarded and to strongly support the 
+            strategy
+        </td>
+    </tr>
+    <tr>
+        <td>Strategy requires an opportunity to reconfigure the value chain</td>
+    </tr>
+</table>
+
+<table style="background-color: #556b2f">
+    <tr>
+        <td>CTOs might be more strategic or focussed on operational efficiency</td>
+    </tr>
+    <tr>
+        <td>If technology fosters innovation, it fosters strategy</td>
+    </tr>
+</table>
 
 
 

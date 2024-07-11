@@ -14,6 +14,8 @@ In one model, taken from CTO Craft main areas of proficiency of a CTO are:
 - Critical Thinking and Problem-Solving
 - Leadership and Influence
 
+<br><br>
+
 Another model is _the four Ts_:
 
 <table border="1" cellpadding="10">
@@ -33,6 +35,7 @@ Another model is _the four Ts_:
     </tbody>
 </table>
 
+<br><br><br>
 
 ## Definition of the ideal CTO
 
@@ -122,6 +125,8 @@ Another model is _the four Ts_:
 A CTO might be focused on strategy through technical innovation or through operational efficiency.
 This will depend on the context of the company or market opportunity. Another way to express this is 
 whether the company is a technology company, or a company where technology plays a supporting role.
+
+<br><br>
 
 ### Working questions
 

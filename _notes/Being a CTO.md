@@ -16,7 +16,7 @@ In one model, taken from CTO Craft main areas of proficiency of a CTO are:
 
 Another model is _the four Ts_:
 
-<table>
+<table border="1" cellpadding="10">
     <tbody>
         <tr>
             <td>Team</td><td>Attract, motivate and inspire a great team</td>
@@ -93,9 +93,7 @@ Another model is _the four Ts_:
         <td>CTO should contribute to the overall strategy definition</td>
     </tr>
     <tr>
-        <td>Strategy is the CEO's accountability; the board needs to be onboarded and to strongly support the 
-            strategy
-        </td>
+        <td>Strategy is the CEO's accountability; the board needs to be onboarded and to strongly support the strategy</td>
     </tr>
     <tr>
         <td>Strategy requires an opportunity to reconfigure the value chain</td>

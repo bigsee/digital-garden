@@ -17,7 +17,8 @@ results in four default modes of thinking:
 
 ### Working questions
 
-1. 
+1. How can we avoid our thinking being limited by the defaults?
+2. Which tools can we use to strengthen our thinking?
 
 ### Suggested reading
 

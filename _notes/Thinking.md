@@ -7,7 +7,7 @@ to filter and process information and then make good decisions based on it. We s
 _how_ and _why_ we think, to improve the quality of that thinking.
 
 Most of our actions are automatic, rather than the result of a rational, logical thinking process as we often believe. 
-Even when our thinking _is_ intentional, it is held hostage by our cognitive biases. The combined effects of this bias 
+Even when our thinking _is_ intentional, it is held hostage by our [cognitive biases](/Bias.md). The combined effects of this bias 
 results in four default modes of thinking:
 
 1. The Emotion default

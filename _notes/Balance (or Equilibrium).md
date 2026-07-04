@@ -12,3 +12,7 @@ If the Joy and Sadness are the crest and the wave, then the equilibrium position
 #### Mean Reversion
 
 In statistics, mean reversion refers to the concept that over time, data series or returns will tend to move back towards the mean or average. This principle is the foundation for many [[Trading|trading]] strategies and economic forecasts.
+
+## Allostasis
+
+Internal equilibrium is even more important that that of our external environment. Evidence of this is the relatively narrow range of internal conditions necessary for human survival, compared with the wide variety of external environments we can survive in. The body's attempt to maintain this internal equilibrium despite the changing external conditions is called *Allostasis*. 

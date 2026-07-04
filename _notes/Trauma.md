@@ -1,1 +1,1 @@
-Trauma is an internal injury or wound. The personal consequence or impact of an event, rather than the event itself.
+Trauma is an internal injury or wound. The personal consequence or impact of an event, rather than the event itself.x

@@ -24,3 +24,6 @@ vendor/
 # IDE config files
 .fleet
 .idea
+
+# Misc
+.DS_Store
